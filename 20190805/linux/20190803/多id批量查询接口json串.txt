@@ -1,1 +1,0 @@
-Clibrary.INSTANCE.SEC_storage_api_invoiceId_batch_query(p, "{\"invoiceIdList\":[\"1\", \"10\", \"100\", \"1000\"]}",  pbr1, ibr, null, null, null);
