@@ -1,0 +1,132 @@
+﻿生成启动时间为 2019/8/5 14:31:54。
+     1>项目“D:\cxg\电子票据代码\hangxin_query_0805\hangxin_query_0805\hangxin_query_0805.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D HANGXIN_QUERY_0805_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc110.pdb" /Gd /TC /errorReport:prompt parse.c qbuff.c query.c utils.c
+         parse.c
+     1>parse.c(67): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>parse.c(72): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>parse.c(80): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>parse.c(96): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>parse.c(103): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>parse.c(110): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>parse.c(120): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>parse.c(126): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>parse.c(129): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>parse.c(139): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>parse.c(146): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>parse.c(154): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>parse.c(163): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>parse.c(166): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>parse.c(172): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>parse.c(175): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>parse.c(181): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(357) : 参见“sprintf”的声明
+     1>parse.c(184): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>parse.c(193): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+     1>parse.c(195): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>parse.c(224): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+         qbuff.c
+     1>qbuff.c(54): warning C4267: “=”: 从“size_t”转换到“unsigned short”，可能丢失数据
+     1>qbuff.c(102): warning C4267: “=”: 从“size_t”转换到“unsigned short”，可能丢失数据
+     1>qbuff.c(152): warning C4267: “=”: 从“size_t”转换到“unsigned short”，可能丢失数据
+     1>qbuff.c(202): warning C4267: “=”: 从“size_t”转换到“unsigned short”，可能丢失数据
+     1>qbuff.c(261): warning C4267: “=”: 从“size_t”转换到“unsigned short”，可能丢失数据
+         query.c
+     1>query.c(56): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>query.c(111): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>query.c(135): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(311) : 参见“sscanf”的声明
+     1>query.c(201): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>query.c(207): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>query.c(220): warning C4013: “SEC_storage_api_invoiceId_query_buff”未定义；假设外部返回 int
+     1>query.c(190): warning C4101: “j”: 未引用的局部变量
+     1>query.c(312): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>query.c(318): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>query.c(325): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>query.c(337): warning C4013: “SEC_storage_api_invoiceId_batch_query_buff”未定义；假设外部返回 int
+     1>query.c(300): warning C4101: “uiIndex”: 未引用的局部变量
+     1>query.c(299): warning C4101: “uiHash”: 未引用的局部变量
+     1>query.c(439): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>query.c(445): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>query.c(452): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>query.c(464): warning C4013: “SEC_storage_api_elem_query_buff”未定义；假设外部返回 int
+     1>query.c(427): warning C4101: “uiIndex”: 未引用的局部变量
+     1>query.c(426): warning C4101: “uiHash”: 未引用的局部变量
+     1>query.c(618): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>query.c(624): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>query.c(631): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>query.c(652): warning C4013: “SEC_storage_api_normal_query_buff”未定义；假设外部返回 int
+     1>query.c(599): warning C4101: “uiIndex”: 未引用的局部变量
+     1>query.c(598): warning C4101: “uiHash”: 未引用的局部变量
+     1>query.c(792): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>query.c(868): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>query.c(884): warning C4013: “SEC_storage_api_download_buff”未定义；假设外部返回 int
+     1>query.c(857): warning C4101: “j”: 未引用的局部变量
+     1>query.c(984): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>query.c(1011): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>query.c(1038): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+         utils.c
+     1>utils.c(52): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>utils.c(78): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\time.inl(112) : 参见“localtime”的声明
+     1>utils.c(95): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>utils.c(113): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>utils.c(132): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>utils.c(154): warning C4244: “函数”: 从“__int64”转换到“unsigned int”，可能丢失数据
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\cxg\电子票据代码\hangxin_query_0805\x64\Release\hangxin_query_0805.dll" /INCREMENTAL:NO /NOLOGO SEC_converge_client.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\cxg\电子票据代码\hangxin_query_0805\x64\Release\hangxin_query_0805.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\cxg\电子票据代码\hangxin_query_0805\x64\Release\hangxin_query_0805.lib" /MACHINE:X64 /DLL x64\Release\cJSON.obj
+         x64\Release\converge.obj
+         x64\Release\dictionary.obj
+         x64\Release\iniparser.obj
+         x64\Release\parse.obj
+         x64\Release\qbuff.obj
+         x64\Release\query.obj
+         x64\Release\utils.obj
+            正在创建库 D:\cxg\电子票据代码\hangxin_query_0805\x64\Release\hangxin_query_0805.lib 和对象 D:\cxg\电子票据代码\hangxin_query_0805\x64\Release\hangxin_query_0805.exp
+         正在生成代码
+     1>d:\cxg\电子票据代码\hangxin_query_0805\hangxin_query_0805\parse.c(253): warning C4715: “SEC_storage_api_free”: 不是所有的控件路径都返回值
+         已完成代码的生成
+         hangxin_query_0805.vcxproj -> D:\cxg\电子票据代码\hangxin_query_0805\x64\Release\hangxin_query_0805.dll
+     1>已完成生成项目“D:\cxg\电子票据代码\hangxin_query_0805\hangxin_query_0805\hangxin_query_0805.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.72
